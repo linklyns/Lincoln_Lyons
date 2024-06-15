@@ -1,0 +1,61 @@
+body {
+    background-color: #1DA1F2
+}
+
+#whole {
+    background-color: #1DA1F2;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#ribbon {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+    margin-right: 20px;
+    background-color: #14171ADA;
+    text-decoration: none;
+    color: white;
+    padding: 1px;
+    font-weight: bold;
+    z-index: 9999;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#ribbon_mid {
+    font-size: xx-large;
+}
+
+.linkback {
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    text-align: left;
+}
+
+.scream {
+    font-style: bold;
+    color: #17BF63;
+}
+
+.fun {
+    background-color: #F5F8FA;
+}
+
+.list {
+    color: white;
+    text-align: left;
+}
+
+#go_to_top {
+    text-align: right;
+    a {
+        text-decoration: none;
+        color: white;}
+}
